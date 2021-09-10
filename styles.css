@@ -1,0 +1,37 @@
+button {
+  background-color: #0c80f3;
+  border: 6px solid #f11e0f;
+  border-radius: 15px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+h5{
+  color: #0000FF;
+  word-spacing: 2pt ;
+}
+
+h4 {
+  color: black;
+  word-spacing: 3pt ;
+}
+
+h3 {
+  color: purple;
+  word-spacing: 3pt ;
+}
+
+label {
+  color: black;
+  font-size: medium;
+}
+
+
+
+
+
